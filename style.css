@@ -1,0 +1,11 @@
+@import url("sections/nav.css");
+@import url("sections/hero.css");
+@import url("sections/vertical_sc.css");
+@import url("sections/horizontal_sc.css");
+@import url("sections/brand.css");
+@import url("sections/footer.css");
+
+@font-face {
+    font-family: "Bernerd";
+    src: url('BernardMTCondensed.ttf') format('ttf');
+}
